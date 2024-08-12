@@ -1,0 +1,5 @@
+opencv-python-headless
+streamlit
+cvzone
+pillow
+google-generativeai
